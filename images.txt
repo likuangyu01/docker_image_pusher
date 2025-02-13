@@ -1,4 +1,2 @@
-ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-nginx
+

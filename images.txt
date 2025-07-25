@@ -1,2 +1,2 @@
-ghcr.io/open-webui/open-webui:cuda
+langgenius/dify-plugin-daemon
 
